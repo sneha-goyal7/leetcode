@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/sneha-goyal7/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/sneha-goyal7/leetcode/tree/master/0050-powx-n) |
+| [3870-count-commas-in-range](https://github.com/sneha-goyal7/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sneha-goyal7/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## String
 |  |
