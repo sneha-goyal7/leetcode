@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/sneha-goyal7/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/sneha-goyal7/leetcode/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/sneha-goyal7/leetcode/tree/master/0069-sqrtx) |
 | [3870-count-commas-in-range](https://github.com/sneha-goyal7/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sneha-goyal7/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## String
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/sneha-goyal7/leetcode/tree/master/0069-sqrtx) |
 | [0374-guess-number-higher-or-lower](https://github.com/sneha-goyal7/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0704-binary-search](https://github.com/sneha-goyal7/leetcode/tree/master/0704-binary-search) |
 ## Interactive
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sneha-goyal7/leetcode/tree/master/0053-maximum-subarray) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/sneha-goyal7/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
