@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/sneha-goyal7/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sneha-goyal7/leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sneha-goyal7/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/sneha-goyal7/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/sneha-goyal7/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/sneha-goyal7/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sneha-goyal7/leetcode/tree/master/0283-move-zeroes) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/sneha-goyal7/leetcode/tree/master/0136-single-number) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sneha-goyal7/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
