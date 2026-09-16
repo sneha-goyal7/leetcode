@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/sneha-goyal7/leetcode/tree/master/0043-multiply-strings) |
+| [1929-concatenation-of-array](https://github.com/sneha-goyal7/leetcode/tree/master/1929-concatenation-of-array) |
 ## Recursion
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sneha-goyal7/leetcode/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/sneha-goyal7/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sneha-goyal7/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1929-concatenation-of-array](https://github.com/sneha-goyal7/leetcode/tree/master/1929-concatenation-of-array) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sneha-goyal7/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Dynamic Programming
 |  |
