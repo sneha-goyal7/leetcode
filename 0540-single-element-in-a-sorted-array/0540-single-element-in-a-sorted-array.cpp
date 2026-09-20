@@ -1,18 +1,20 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& arr) {
-        //    int n=arr.size()-1;
+ 
         int st = 0, end = arr.size() - 1;
            if(arr.size()==1)return arr[0];
+
         while (st <= end) {
             int mid = st + (end - st) / 2;
-            if (mid == 0 && arr[0]!= arr[1])
-                return arr[mid];
-            if (mid == arr.size() - 1 &&
-                arr[arr.size() - 1] != arr[arr.size() - 2])
+
+            if (mid == 0 && arr[0]!= arr[1])return arr[mid];
+
+            if (mid == arr.size() - 1 && arr[arr.size() - 1] != arr[arr.size() - 2])
                 return arr[mid];
             if (arr[mid - 1] != arr[mid] && arr[mid] != arr[mid + 1])
                 return arr[mid];
+                
             if (mid % 2 == 0) {
                 if (arr[mid - 1] == arr[mid])
                     end = mid - 1;
