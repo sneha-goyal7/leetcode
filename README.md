@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sneha-goyal7/leetcode/tree/master/0043-multiply-strings) |
 | [0050-powx-n](https://github.com/sneha-goyal7/leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/sneha-goyal7/leetcode/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/sneha-goyal7/leetcode/tree/master/0204-count-primes) |
 | [3870-count-commas-in-range](https://github.com/sneha-goyal7/leetcode/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/sneha-goyal7/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## String
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sneha-goyal7/leetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/sneha-goyal7/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0162-find-peak-element](https://github.com/sneha-goyal7/leetcode/tree/master/0162-find-peak-element) |
+| [0204-count-primes](https://github.com/sneha-goyal7/leetcode/tree/master/0204-count-primes) |
 | [0238-product-of-array-except-self](https://github.com/sneha-goyal7/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/sneha-goyal7/leetcode/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sneha-goyal7/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -137,4 +139,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/sneha-goyal7/leetcode/tree/master/0075-sort-colors) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sneha-goyal7/leetcode/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sneha-goyal7/leetcode/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sneha-goyal7/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sneha-goyal7/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/sneha-goyal7/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
