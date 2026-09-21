@@ -8,6 +8,7 @@ public:
                 break;
             }
         }
+        //base reverse case
         if(piv==-1){
             reverse(nums.begin(),nums.end());
             return;
@@ -18,6 +19,7 @@ public:
                 break;
             }
         }
+        //reverse case 
         int i=piv+1,j=n-1;
         while(i<=j){
             swap(nums[i],nums[j]);
