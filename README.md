@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/sneha-goyal7/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1572-matrix-diagonal-sum](https://github.com/sneha-goyal7/leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1929-concatenation-of-array](https://github.com/sneha-goyal7/leetcode/tree/master/1929-concatenation-of-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sneha-goyal7/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/sneha-goyal7/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sneha-goyal7/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sneha-goyal7/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sneha-goyal7/leetcode/tree/master/0001-two-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sneha-goyal7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sneha-goyal7/leetcode/tree/master/0567-permutation-in-string) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sneha-goyal7/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/sneha-goyal7/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sneha-goyal7/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Bit Manipulation
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/sneha-goyal7/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/sneha-goyal7/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sneha-goyal7/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/sneha-goyal7/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 ## Pigeonhole Principle
 |  |
