@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/sneha-goyal7/leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/sneha-goyal7/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/sneha-goyal7/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/sneha-goyal7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/sneha-goyal7/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sneha-goyal7/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1572-matrix-diagonal-sum](https://github.com/sneha-goyal7/leetcode/tree/master/1572-matrix-diagonal-sum) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sneha-goyal7/leetcode/tree/master/0001-two-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/sneha-goyal7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sneha-goyal7/leetcode/tree/master/0567-permutation-in-string) |
 | [2965-find-missing-and-repeated-values](https://github.com/sneha-goyal7/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sneha-goyal7/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sneha-goyal7/leetcode/tree/master/0238-product-of-array-except-self) |
+| [0560-subarray-sum-equals-k](https://github.com/sneha-goyal7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
 | ------- |
