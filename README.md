@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sneha-goyal7/leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/sneha-goyal7/leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sneha-goyal7/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0046-permutations](https://github.com/sneha-goyal7/leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/sneha-goyal7/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sneha-goyal7/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sneha-goyal7/leetcode/tree/master/0054-spiral-matrix) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/sneha-goyal7/leetcode/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/sneha-goyal7/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
