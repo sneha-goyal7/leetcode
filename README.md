@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/sneha-goyal7/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sneha-goyal7/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/sneha-goyal7/leetcode/tree/master/0344-reverse-string) |
+| [0389-find-the-difference](https://github.com/sneha-goyal7/leetcode/tree/master/0389-find-the-difference) |
 | [0443-string-compression](https://github.com/sneha-goyal7/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sneha-goyal7/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sneha-goyal7/leetcode/tree/master/0001-two-sum) |
 | [0268-missing-number](https://github.com/sneha-goyal7/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sneha-goyal7/leetcode/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/sneha-goyal7/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sneha-goyal7/leetcode/tree/master/0567-permutation-in-string) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sneha-goyal7/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/sneha-goyal7/leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/sneha-goyal7/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sneha-goyal7/leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/sneha-goyal7/leetcode/tree/master/0389-find-the-difference) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sneha-goyal7/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
@@ -191,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/sneha-goyal7/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sneha-goyal7/leetcode/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/sneha-goyal7/leetcode/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/sneha-goyal7/leetcode/tree/master/0389-find-the-difference) |
 ## Quicksort
 |  |
 | ------- |
