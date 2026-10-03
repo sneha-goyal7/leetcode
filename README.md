@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/sneha-goyal7/leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/sneha-goyal7/leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1572-matrix-diagonal-sum](https://github.com/sneha-goyal7/leetcode/tree/master/1572-matrix-diagonal-sum) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/sneha-goyal7/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/sneha-goyal7/leetcode/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [1929-concatenation-of-array](https://github.com/sneha-goyal7/leetcode/tree/master/1929-concatenation-of-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/sneha-goyal7/leetcode/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
