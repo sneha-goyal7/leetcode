@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/sneha-goyal7/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sneha-goyal7/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/sneha-goyal7/leetcode/tree/master/0796-rotate-string) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sneha-goyal7/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [3146-permutation-difference-between-two-strings](https://github.com/sneha-goyal7/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Simulation
@@ -270,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/sneha-goyal7/leetcode/tree/master/0051-n-queens) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/sneha-goyal7/leetcode/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
