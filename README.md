@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sneha-goyal7/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/sneha-goyal7/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/sneha-goyal7/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sneha-goyal7/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/sneha-goyal7/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/sneha-goyal7/leetcode/tree/master/0078-subsets) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/sneha-goyal7/leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/sneha-goyal7/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/sneha-goyal7/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sneha-goyal7/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sneha-goyal7/leetcode/tree/master/0389-find-the-difference) |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sneha-goyal7/leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/sneha-goyal7/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/sneha-goyal7/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/sneha-goyal7/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/sneha-goyal7/leetcode/tree/master/1572-matrix-diagonal-sum) |
