@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sneha-goyal7/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/sneha-goyal7/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sneha-goyal7/leetcode/tree/master/0204-count-primes) |
+| [0229-majority-element-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sneha-goyal7/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/sneha-goyal7/leetcode/tree/master/0268-missing-number) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sneha-goyal7/leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/sneha-goyal7/leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sneha-goyal7/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sneha-goyal7/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sneha-goyal7/leetcode/tree/master/0389-find-the-difference) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/sneha-goyal7/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/sneha-goyal7/leetcode/tree/master/0088-merge-sorted-array) |
+| [0229-majority-element-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/sneha-goyal7/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sneha-goyal7/leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/sneha-goyal7/leetcode/tree/master/0389-find-the-difference) |
@@ -328,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/sneha-goyal7/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Memoization
 |  |
@@ -337,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sneha-goyal7/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
