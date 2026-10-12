@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sneha-goyal7/leetcode/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/sneha-goyal7/leetcode/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/sneha-goyal7/leetcode/tree/master/0050-powx-n) |
+| [0067-add-binary](https://github.com/sneha-goyal7/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sneha-goyal7/leetcode/tree/master/0069-sqrtx) |
 | [0171-excel-sheet-column-number](https://github.com/sneha-goyal7/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/sneha-goyal7/leetcode/tree/master/0189-rotate-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sneha-goyal7/leetcode/tree/master/0013-roman-to-integer) |
 | [0043-multiply-strings](https://github.com/sneha-goyal7/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/sneha-goyal7/leetcode/tree/master/0044-wildcard-matching) |
+| [0067-add-binary](https://github.com/sneha-goyal7/leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/sneha-goyal7/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/sneha-goyal7/leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/sneha-goyal7/leetcode/tree/master/0171-excel-sheet-column-number) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sneha-goyal7/leetcode/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/sneha-goyal7/leetcode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/sneha-goyal7/leetcode/tree/master/0067-add-binary) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sneha-goyal7/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
 | [1929-concatenation-of-array](https://github.com/sneha-goyal7/leetcode/tree/master/1929-concatenation-of-array) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sneha-goyal7/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -148,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/sneha-goyal7/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sneha-goyal7/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sneha-goyal7/leetcode/tree/master/0136-single-number) |
