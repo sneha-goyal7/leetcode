@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/sneha-goyal7/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sneha-goyal7/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sneha-goyal7/leetcode/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sneha-goyal7/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/sneha-goyal7/leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/sneha-goyal7/leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/sneha-goyal7/leetcode/tree/master/0509-fibonacci-number) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/sneha-goyal7/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/sneha-goyal7/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sneha-goyal7/leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sneha-goyal7/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/sneha-goyal7/leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/sneha-goyal7/leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/sneha-goyal7/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/sneha-goyal7/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sneha-goyal7/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/sneha-goyal7/leetcode/tree/master/0389-find-the-difference) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/sneha-goyal7/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/sneha-goyal7/leetcode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Two Pointers
 |  |
