@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sneha-goyal7/leetcode/tree/master/0204-count-primes) |
 | [0268-missing-number](https://github.com/sneha-goyal7/leetcode/tree/master/0268-missing-number) |
 | [0415-add-strings](https://github.com/sneha-goyal7/leetcode/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/sneha-goyal7/leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/sneha-goyal7/leetcode/tree/master/0509-fibonacci-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/sneha-goyal7/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sneha-goyal7/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/sneha-goyal7/leetcode/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/sneha-goyal7/leetcode/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/sneha-goyal7/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0504-base-7](https://github.com/sneha-goyal7/leetcode/tree/master/0504-base-7) |
 | [0567-permutation-in-string](https://github.com/sneha-goyal7/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0796-rotate-string](https://github.com/sneha-goyal7/leetcode/tree/master/0796-rotate-string) |
