@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sneha-goyal7/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/sneha-goyal7/leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/sneha-goyal7/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sneha-goyal7/leetcode/tree/master/0013-roman-to-integer) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sneha-goyal7/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0044-wildcard-matching](https://github.com/sneha-goyal7/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sneha-goyal7/leetcode/tree/master/0053-maximum-subarray) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/sneha-goyal7/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/sneha-goyal7/leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/sneha-goyal7/leetcode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/sneha-goyal7/leetcode/tree/master/0018-4sum) |
@@ -405,4 +408,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sneha-goyal7/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/sneha-goyal7/leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
