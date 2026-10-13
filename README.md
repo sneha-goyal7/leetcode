@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/sneha-goyal7/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/sneha-goyal7/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sneha-goyal7/leetcode/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/sneha-goyal7/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sneha-goyal7/leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sneha-goyal7/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/sneha-goyal7/leetcode/tree/master/0415-add-strings) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0044-wildcard-matching](https://github.com/sneha-goyal7/leetcode/tree/master/0044-wildcard-matching) |
 | [0050-powx-n](https://github.com/sneha-goyal7/leetcode/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/sneha-goyal7/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/sneha-goyal7/leetcode/tree/master/0509-fibonacci-number) |
 ## Array
 |  |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sneha-goyal7/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/sneha-goyal7/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sneha-goyal7/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/sneha-goyal7/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/sneha-goyal7/leetcode/tree/master/0389-find-the-difference) |
