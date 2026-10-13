@@ -15,5 +15,17 @@ public:
         vector<int>ans;
         getallSubsets(nums,ans,0,allSubsets);
         return allSubsets;
+
+        /* int n = nums.size();
+    vector<vector<int>> ans;
+
+    for (int mask = 0; mask < (1 << n); mask++) {
+        vector<int> cur;
+        for (int i = 0; i < n; i++) {
+            if (mask & (1 << i)) cur.push_back(nums[i]);
+        }
+        ans.push_back(cur);
+    }
+    return ans;*/
     }
 };
