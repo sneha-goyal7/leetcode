@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/sneha-goyal7/leetcode/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/sneha-goyal7/leetcode/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sneha-goyal7/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1922-count-good-numbers](https://github.com/sneha-goyal7/leetcode/tree/master/1922-count-good-numbers) |
 | [2965-find-missing-and-repeated-values](https://github.com/sneha-goyal7/leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/sneha-goyal7/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3870-count-commas-in-range](https://github.com/sneha-goyal7/leetcode/tree/master/3870-count-commas-in-range) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sneha-goyal7/leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/sneha-goyal7/leetcode/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/sneha-goyal7/leetcode/tree/master/0509-fibonacci-number) |
+| [1922-count-good-numbers](https://github.com/sneha-goyal7/leetcode/tree/master/1922-count-good-numbers) |
 ## Array
 |  |
 | ------- |
