@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/sneha-goyal7/leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/sneha-goyal7/leetcode/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/sneha-goyal7/leetcode/tree/master/0204-count-primes) |
+| [0216-combination-sum-iii](https://github.com/sneha-goyal7/leetcode/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/sneha-goyal7/leetcode/tree/master/0238-product-of-array-except-self) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/sneha-goyal7/leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/sneha-goyal7/leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/sneha-goyal7/leetcode/tree/master/0216-combination-sum-iii) |
 ## Algorithm X
 |  |
 | ------- |
