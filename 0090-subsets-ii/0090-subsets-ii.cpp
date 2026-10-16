@@ -1,22 +1,23 @@
 class Solution {
-    void possibleSubsets(vector<int>& nums, vector<int>& ans, int i, vector<vector<int>>& allSubsets) {
-        if(i==nums.size()){
-            allSubsets.push_back(ans);
+public:
+ void solve(vector<int>& nums, int i, vector<int>& cur, vector<vector<int>>& res) {
+        if (i == nums.size()) {
+            res.push_back(cur);
             return;
         }
-        ans.push_back(nums[i]);
-        possibleSubsets(nums,ans,i+1,allSubsets);
-        ans.pop_back();
-        int idx=i+1;
-        while(idx<nums.size() && nums[idx]==nums[idx-1])idx++;
-        possibleSubsets(nums,ans,idx,allSubsets);
+        cur.push_back(nums[i]);    
+        solve(nums, i + 1, cur, res);
+        cur.pop_back();                 
+
+        int j = i + 1;
+        while (j < nums.size() && nums[j] == nums[i]) j++;  
+        solve(nums, j, cur, res);        
     }
-public:
     vector<vector<int>> subsetsWithDup(vector<int>& nums) {
         sort(nums.begin(), nums.end());
-        vector<vector<int>> allSubsets;
-        vector<int> ans;
-        possibleSubsets(nums, ans, 0, allSubsets);
-        return allSubsets;
+        vector<vector<int>> res;
+        vector<int> cur;
+        solve(nums, 0, cur, res);
+        return res;
     }
 };
