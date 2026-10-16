@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/sneha-goyal7/leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/sneha-goyal7/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/sneha-goyal7/leetcode/tree/master/0268-missing-number) |
+| [0282-expression-add-operators](https://github.com/sneha-goyal7/leetcode/tree/master/0282-expression-add-operators) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sneha-goyal7/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/sneha-goyal7/leetcode/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/sneha-goyal7/leetcode/tree/master/0504-base-7) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/sneha-goyal7/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sneha-goyal7/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/sneha-goyal7/leetcode/tree/master/0242-valid-anagram) |
+| [0282-expression-add-operators](https://github.com/sneha-goyal7/leetcode/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/sneha-goyal7/leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/sneha-goyal7/leetcode/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/sneha-goyal7/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sneha-goyal7/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sneha-goyal7/leetcode/tree/master/0216-combination-sum-iii) |
+| [0282-expression-add-operators](https://github.com/sneha-goyal7/leetcode/tree/master/0282-expression-add-operators) |
 ## Algorithm X
 |  |
 | ------- |
