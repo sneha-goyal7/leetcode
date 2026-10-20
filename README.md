@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/sneha-goyal7/leetcode/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/sneha-goyal7/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/sneha-goyal7/leetcode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/sneha-goyal7/leetcode/tree/master/0089-gray-code) |
 | [0168-excel-sheet-column-title](https://github.com/sneha-goyal7/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/sneha-goyal7/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/sneha-goyal7/leetcode/tree/master/0189-rotate-array) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/sneha-goyal7/leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/sneha-goyal7/leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/sneha-goyal7/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/sneha-goyal7/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/sneha-goyal7/leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0137-single-number-ii) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/sneha-goyal7/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/sneha-goyal7/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/sneha-goyal7/leetcode/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/sneha-goyal7/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/sneha-goyal7/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/sneha-goyal7/leetcode/tree/master/0216-combination-sum-iii) |
