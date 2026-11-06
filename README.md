@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sneha-goyal7/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sneha-goyal7/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/sneha-goyal7/leetcode/tree/master/1910-remove-all-occurrences-of-a-substring) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/sneha-goyal7/leetcode/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [3146-permutation-difference-between-two-strings](https://github.com/sneha-goyal7/leetcode/tree/master/3146-permutation-difference-between-two-strings) |
 ## Simulation
 |  |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/sneha-goyal7/leetcode/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/sneha-goyal7/leetcode/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0680-valid-palindrome-ii) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/sneha-goyal7/leetcode/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sneha-goyal7/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Greedy
 |  |
@@ -496,8 +498,21 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/sneha-goyal7/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/sneha-goyal7/leetcode/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sneha-goyal7/leetcode/tree/master/0079-word-search) |
+## Rolling Hash
+|  |
+| ------- |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/sneha-goyal7/leetcode/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
+## Hash Function
+|  |
+| ------- |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/sneha-goyal7/leetcode/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
+## Palindromic Tree
+|  |
+| ------- |
+| [1960-maximum-product-of-the-length-of-two-palindromic-substrings](https://github.com/sneha-goyal7/leetcode/tree/master/1960-maximum-product-of-the-length-of-two-palindromic-substrings) |
 <!---LeetCode Topics End-->
