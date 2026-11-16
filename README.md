@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0043-multiply-strings](https://github.com/sneha-goyal7/leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/sneha-goyal7/leetcode/tree/master/0044-wildcard-matching) |
 | [0067-add-binary](https://github.com/sneha-goyal7/leetcode/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/sneha-goyal7/leetcode/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/sneha-goyal7/leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/sneha-goyal7/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/sneha-goyal7/leetcode/tree/master/0131-palindrome-partitioning) |
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/sneha-goyal7/leetcode/tree/master/0071-simplify-path) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/sneha-goyal7/leetcode/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/sneha-goyal7/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sneha-goyal7/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
