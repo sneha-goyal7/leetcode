@@ -235,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/sneha-goyal7/leetcode/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sneha-goyal7/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/sneha-goyal7/leetcode/tree/master/0031-next-permutation) |
+| [0061-rotate-list](https://github.com/sneha-goyal7/leetcode/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/sneha-goyal7/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/sneha-goyal7/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/sneha-goyal7/leetcode/tree/master/0088-merge-sorted-array) |
@@ -494,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/sneha-goyal7/leetcode/tree/master/0061-rotate-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/sneha-goyal7/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/sneha-goyal7/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Manacher
